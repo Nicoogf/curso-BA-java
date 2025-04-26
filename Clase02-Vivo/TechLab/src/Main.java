@@ -4,6 +4,6 @@ public class Main {
         System.out.println("Hola mundo");
         String nombre = "nicolas" ;
 
-        nombre.
+        nombre.toLowerCase() ;
     }
 }
