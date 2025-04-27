@@ -5,5 +5,6 @@ public class Main {
         String nombre = "nicolas" ;
 
         nombre.toLowerCase() ;
+        nombre.toUpperCase() ;
     }
 }
