@@ -7,5 +7,6 @@ public class Main {
         nombre.toLowerCase() ;
         nombre.toUpperCase() ;
         nombre.equals(nombre)  ;
+        nombre.getBytes() ;
     }
 }
