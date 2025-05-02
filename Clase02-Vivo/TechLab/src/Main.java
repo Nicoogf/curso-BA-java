@@ -8,5 +8,9 @@ public class Main {
         nombre.toUpperCase() ;
         nombre.equals(nombre)  ;
         nombre.getBytes() ;
+        nombre.formatted() ;
+        nombre.formatted() ;
+        nombre.formatted() ;
+
     }
 }
