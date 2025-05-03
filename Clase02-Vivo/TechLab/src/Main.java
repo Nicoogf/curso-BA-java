@@ -11,6 +11,7 @@ public class Main {
         nombre.formatted() ;
         nombre.formatted() ;
         nombre.formatted() ;
+        nombre.split() ;
 
     }
 }
