@@ -14,6 +14,7 @@ public class Main {
         nombre.split() ;
         nombre.indexOf(2) ;
         nombre.indexOf(3) ;
+        nombre.indexOf(4) ;
 
     }
 }
