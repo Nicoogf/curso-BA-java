@@ -15,6 +15,7 @@ public class Main {
         nombre.indexOf(2) ;
         nombre.indexOf(3) ;
         nombre.indexOf(4) ;
+        nombre.indexOf(5) ;
 
     }
 }
