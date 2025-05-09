@@ -16,7 +16,12 @@ public class Main {
         nombre.indexOf(3) ;
         nombre.indexOf(4) ;
 
-        nombre.indexOf(6) ;
+
+        nombre.indexOf(3) ;
+        nombre.indexOf(4) ;
+        nombre.indexOf(5) ;
+        nombre.indexOf(8) ;
+        nombre.indexOf(10) ;
 
     }
 }
