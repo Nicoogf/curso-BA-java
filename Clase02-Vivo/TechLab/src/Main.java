@@ -22,6 +22,9 @@ public class Main {
         nombre.indexOf(5) ;
         nombre.indexOf(8) ;
         nombre.indexOf(10) ;
+        nombre.indexOf(8) ;
+        nombre.indexOf(10) ;
+
 
     }
 }
