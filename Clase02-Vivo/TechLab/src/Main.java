@@ -28,6 +28,14 @@ public class Main {
 
         System.out.println(nombre.toLowerCase());
 
+        nombre.indexOf(10) ;
+        nombre.indexOf(8) ;
+        nombre.indexOf(10) ;
+        System.out.println(nombre);
+
+        System.out.println(nombre.toLowerCase());
+
+
 
     }
 }
