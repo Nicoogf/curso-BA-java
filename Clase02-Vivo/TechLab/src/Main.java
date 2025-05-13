@@ -35,6 +35,16 @@ public class Main {
 
         System.out.println(nombre.toLowerCase());
 
+        ombre.equals(nombre)  ;
+        nombre.getBytes() ;
+        nombre.formatted() ;
+        nombre.formatted() ;
+        nombre.formatted() ;
+        nombre.split() ;
+        nombre.indexOf(2) ;
+        nombre.indexOf(3) ;
+        nombre.indexOf(4) ;
+
 
 
     }
