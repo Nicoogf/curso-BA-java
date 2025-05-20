@@ -6,4 +6,7 @@ public class Alumno {
     public String name  ;
     public int age ;
     public int cel ;
+    public Alumno( String nombre , int edad ){
+        this.nombre = nombre ;
+    }
 }
