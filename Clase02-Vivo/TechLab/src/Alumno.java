@@ -8,5 +8,6 @@ public class Alumno {
     public int cel ;
     public Alumno( String nombre , int edad ){
         this.nombre = nombre ;
+        this.edad = edad ;
     }
 }
