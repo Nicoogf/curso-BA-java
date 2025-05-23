@@ -9,5 +9,6 @@ public class Alumno {
     public Alumno( String nombre , int edad ){
         this.nombre = nombre ;
         this.edad = edad ;
+        return string ;
     }
 }
